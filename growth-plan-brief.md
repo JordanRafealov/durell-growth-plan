@@ -283,7 +283,7 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 > At $25K average client value, LinkedIn alone is worth $125K/month — $1.5M per year. And these are the WARMEST leads because they've seen your face, heard your podcast, gotten a personal video. The trust is already built before the strategy call even starts."
 
 **Channel 2: Cold Email — Volume Engine (7 clients/month)**
-> "Email carries the volume. Apollo gives us 150,000 to 300,000+ business owners matching your exact ICP across the US — healthcare, medical, dental, trucking, hospitality, assisted living, construction, veterinary, home services. Owner/Founder/CEO, 10-500 employees, $2M-$50M revenue.
+> "Email carries the volume. Apollo gives us 44,390 business owners matching your exact ICP across the US — healthcare, medical, dental, trucking, hospitality, assisted living, construction, veterinary, home services. Owner/Founder/CEO, 10-500 employees, $2M-$50M revenue.
 >
 > Here's the approach: we send ~425 emails per day through 5-10 warmed inboxes. The email copy self-qualifies — we open with: '[Name], if you've acquired a business in the last 18 months and you're feeling the squeeze of debt service eating into your profits — this is for you. If not, feel free to ignore.'
 >
@@ -472,7 +472,7 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 - **Combined engine:** 14-15 clients/month = $350K/month = $4.2M (half = $2M)
 - **Emails/day needed:** 425 (very doable with 5-10 inboxes)
 - **LinkedIn connections/week:** 100 (hand-picked, not blasted)
-- **Apollo TAM:** 150K-300K+ business owners
+- **Apollo TAM:** 44,390 business owners
 - **LinkedIn TAM:** 3K-8K with keyword rotation
 - **Guarantee:** 25 qualified conversations in 90 days
 - **Pipeline guarantee:** $300K+
