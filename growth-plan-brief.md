@@ -87,16 +87,16 @@ You are presenting a **Growth Plan** to Durell Patrick, a financial optimization
 
 Two buyer types, one core problem:
 
-### Buyer A: Post-Acquisition Business Owner
+### THE ONE BUYER (Locked In For 90 Days)
 
 | Attribute | Detail |
 |-----------|--------|
-| **Who** | Business owner who just acquired a company |
-| **Situation** | Used SBA loan or debt to buy ($2-6M borrowed) |
-| **Problem** | Profitable but bleeding cash to debt service |
-| **Need** | Optimize profits/taxes to cover debt AND grow |
-| **Life Event Trigger** | Closed an acquisition in the last 6-12 months |
-| **What Durell Does** | Restructures debt and taxes, finds hidden savings (like the $600K for the trucking company), frees up capital to service debt and make further acquisitions |
+| **Who** | Business owner who acquired a company in the last 6-18 months |
+| **How they bought** | Debt financing — SBA loan, bank loan, or seller financing |
+| **Company revenue** | $2M-$20M |
+| **Situation** | Profitable but cash-constrained — debt service eating into margins |
+| **Life Event Trigger** | Closed an acquisition in last 6-18 months (identifiable, timeable, targetable) |
+| **What Durell Does** | Restructures debt and taxes, finds $300K-$600K in hidden savings, frees up capital to service debt and fund next acquisition |
 | **Durell's Value** | Turns a 10-year growth plan into 5 years without using additional capital |
 
 ### Buyer B: Pre-Exit Business Owner
@@ -111,13 +111,14 @@ Two buyer types, one core problem:
 | **What Durell Does** | Pre-exit optimization — boost value, reduce tax liability, structure the sale to maximize walkaway number |
 | **Durell's Value** | The difference between "sold for $6M, netted $800K" and "sold for $9M, netted $3M" |
 
-### Industries (his stated best fits)
-- Medical / Dental / Surgery practices
+### Industries (locked in for outbound)
+- Medical / Dental practices
 - Trucking / Logistics
 - Hospitality
-- Assisted Living
+- Assisted Living / Nursing Homes
 - Construction
-- Architectural / Engineering firms
+- Veterinary Services
+- Home Services (HVAC, Plumbing, Electrical)
 
 ### Why These Two Buyers Are The Right Focus
 
@@ -249,7 +250,7 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 > So before we turn on a single channel, the FIRST thing we do is constrain you down to ONE offer and ONE buyer. Here's what I think that looks like..."
 
 **Transition to the offer:**
-> "The only thing you said yesterday that sounded like a real, sellable, high-value offer was this: 'We help business owners who just acquired a company find $300K-$600K in annual savings within 90 days — enough to cover your debt service and fund your next move.'
+> "The only thing you said yesterday that sounded like a real, sellable, high-value offer was this: 'We help business owners who just acquired a company find $300K-$600K in annual savings within 90 days — enough to cover your debt service and fund your next acquisition.'
 >
 > THAT is specific. That's a clear before and after. That's a triggering life event — they just closed an acquisition. We can target that. We can message that. We can build a pipeline around that.
 >
@@ -266,30 +267,31 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 
 ### Phase 8: The Solution — Three-Pillar System (10 min)
 
-**Channel 1: LinkedIn Dream 500 Precision Play (for business owners)**
-> "For business owners — your buyers — we're NOT doing volume. We're doing precision.
+**Channel 1: LinkedIn — Trust Accelerator (~5 clients/month)**
+> "LinkedIn isn't the volume play — it's the trust accelerator. We've got 3,000-8,000 business owners on Sales Nav matching your exact ICP depending on keyword combinations. Owner, Founder, CEO, President, Managing Partner — medical, trucking, hospitality, construction, veterinary, home services — 11-500 employees, US only, with the 'Changed Jobs' filter catching recent acquisitions.
 >
-> Here's the approach: there are 4,000+ business owners on LinkedIn right now matching your exact ICP — medical practices, trucking, hospitality, construction — Owner, Founder, CEO level, 11-500 employees. I'll show you the screenshot.
+> We also rotate keywords in the search bar: 'acquired', 'new owner', 'took over', 'bought the business', 'SBA' — to surface the exact people who just went through the event you solve for.
 >
-> But we're not blasting all 4,000. We're hand-picking 50-100 per month — the Dream 500. Here's what makes this different:
-> 1. We use LinkedIn's 'Changed Jobs' filter to catch business owners who just acquired or just transitioned — that's your Buyer A trigger event happening in real time
-> 2. Each prospect gets a personalized Loom video from you — 60 seconds, referencing their specific business, their industry, their situation
-> 3. The best prospects get invited onto your podcast — flattering, not salesy, and it creates a real relationship
-> 4. After the podcast, you BAMFAM it — book the strategy call while the rapport is fresh
+> Here's the weekly cadence:
+> - 100 connection requests per week — hand-picked, not blasted
+> - 30% accept rate = 30 new connections
+> - Podcast/call invites to all 30 — Loom videos, personalized messages
+> - 20% booking rate = 6 calls booked per week
+> - 70% show rate = 4 shows per week
+> - 30% close rate (warmer leads) = 1.2 clients per week = ~5 clients per month
 >
-> The math: 50-100 hand-picked connections per month → 15-40 warm conversations → 4-14 podcast recordings or direct calls → 8-15 strategy calls in 90 days. At your $40K average LTV, that's $320K-$600K in pipeline from LinkedIn alone.
->
-> Why precision, not volume? Because a business owner deciding whether to trust you with $180K doesn't respond to automated connection requests. They respond to someone who took 60 seconds to record a video about THEIR business. That's the difference."
+> At $25K average client value, LinkedIn alone is worth $125K/month — $1.5M per year. And these are the WARMEST leads because they've seen your face, heard your podcast, gotten a personal video. The trust is already built before the strategy call even starts."
 
-**Channel 2: Cold Email (for referral partners + volume)**
-> "For referral partners — commercial lenders, business brokers, CPAs, insurance agents — we use automated cold email at scale.
+**Channel 2: Cold Email — Volume Engine (7 clients/month)**
+> "Email carries the volume. Apollo gives us 150,000 to 300,000+ business owners matching your exact ICP across the US — healthcare, medical, dental, trucking, hospitality, assisted living, construction, veterinary, home services. Owner/Founder/CEO, 10-500 employees, $2M-$50M revenue.
 >
-> 1. We build targeted lists of professionals who serve your same client base
-> 2. AI-personalized sequences that position you as a value-add partner, not a competitor
-> 3. Proper infrastructure: 8-12 warmed domains, no burned addresses, deliverability monitoring
-> 4. AI handles reply classification — your inbox isn't flooded with manual work
+> Here's the approach: we send ~425 emails per day through 5-10 warmed inboxes. The email copy self-qualifies — we open with: '[Name], if you've acquired a business in the last 18 months and you're feeling the squeeze of debt service eating into your profits — this is for you. If not, feel free to ignore.'
 >
-> This is what failed before with the ad agency. They ran ads to strangers with no infrastructure, no trust, no follow-up. We fix that systematically."
+> Only the people who feel the pain reply. AI classifies every response — hot leads get escalated to you in seconds, tire-kickers get filtered. The math:
+> - 12,700 emails/month → 254 positive replies → 38 booked calls → 27 shows → 7 new clients/month
+> - At $25K average client value: $175,000/month from email alone
+>
+> This is what failed before with the ad agency. They ran ads to strangers with no infrastructure, no trust, no follow-up. We fix that systematically with proper infrastructure and AI-powered qualification."
 
 **Channel 3: Podcast Authority Engine (supports both)**
 > "The podcast does triple duty:
@@ -411,16 +413,67 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 
 ---
 
+## The Math to $2M (Combined Engine)
+
+| Channel | Clients/Month | Revenue/Month |
+|---------|---------------|---------------|
+| **Cold Email** | ~7 | $175,000 |
+| **LinkedIn** | ~5 | $125,000 |
+| **Referrals (existing)** | 2-3 | $50,000 |
+| **TOTAL** | **14-15** | **$350,000** |
+
+**Annual run rate:** $4.2M
+**Even at half efficiency:** 7-8 clients/month = $175K/month = **$2.1M/year** — that's the target.
+
+### Cold Email Funnel (working backwards from $2M):
+| Metric | Number |
+|--------|--------|
+| Revenue Goal | $2,000,000 |
+| Avg Client Value (conservative) | $25,000 |
+| Clients Needed | 80/year |
+| Close Rate (qualified calls) | 25% |
+| Qualified Calls Needed | 320/year |
+| Show Rate | 70% |
+| Booked Calls Needed | 457/year |
+| Booking Rate (from replies) | 15% |
+| Positive Replies Needed | 3,047/year |
+| Reply Rate (cold email) | 2% |
+| Emails Sent Needed | 152,350/year |
+
+**Monthly:** ~12,700 emails → ~254 replies → ~38 booked → ~27 shows → ~7 clients
+
+### LinkedIn Funnel:
+| Metric | Number |
+|--------|--------|
+| Connection Requests/Week | 100 |
+| Accept Rate | 30% |
+| New Connections/Week | 30 |
+| Podcast/Call Invites Sent | 30 |
+| Booking Rate | 20% |
+| Calls Booked/Week | 6 |
+| Shows/Week | 4 |
+| Close Rate (warmer leads) | 30% |
+| Clients/Week | 1.2 |
+| **Clients/Month** | **~5** |
+
+**LinkedIn alone:** ~$125K/month = $1.5M/year
+
+---
+
 ## Key Numbers to Have Memorized
 
 - **The gap:** $152K/month ($1.82M/year)
 - **Profit gap:** ~$90K/month ($1.08M/year)
 - **Exit package value:** $180,000 (12x the $15K investment)
 - **Life insurance potential:** $400K-$800K per client
-- **Average client LTV:** $30K-$50K
+- **Average client value (conservative):** $25,000
 - **Tax/acquisition planning:** $23K/year per client
 - **Current clients:** 18 (all referral)
-- **New clients needed:** 4/month at $40K avg LTV = $2M run rate
+- **Combined engine:** 14-15 clients/month = $350K/month = $4.2M (half = $2M)
+- **Emails/day needed:** 425 (very doable with 5-10 inboxes)
+- **LinkedIn connections/week:** 100 (hand-picked, not blasted)
+- **Apollo TAM:** 150K-300K+ business owners
+- **LinkedIn TAM:** 3K-8K with keyword rotation
 - **Guarantee:** 25 qualified conversations in 90 days
 - **Pipeline guarantee:** $300K+
 - **In-house equivalent cost:** $17-22K/month (SDR + tools + podcast + AI engineer)
