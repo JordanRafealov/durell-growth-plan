@@ -267,31 +267,31 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 
 ### Phase 8: The Solution — Three-Pillar System (10 min)
 
-**Channel 1: LinkedIn — Trust Accelerator (~5 clients/month)**
+**Channel 1: LinkedIn — Trust Accelerator (~2 clients/month)**
 > "LinkedIn isn't the volume play — it's the trust accelerator. We've got 3,000-8,000 business owners on Sales Nav matching your exact ICP depending on keyword combinations. Owner, Founder, CEO, President, Managing Partner — medical, trucking, hospitality, construction, veterinary, home services — 11-500 employees, US only, with the 'Changed Jobs' filter catching recent acquisitions.
 >
-> We also rotate keywords in the search bar: 'acquired', 'new owner', 'took over', 'bought the business', 'SBA' — to surface the exact people who just went through the event you solve for.
+> We rotate keywords in the search bar: 'acquired', 'new owner', 'took over', 'bought the business', 'SBA' — to surface the exact people who just went through the event you solve for.
 >
-> Here's the weekly cadence:
+> Here's the weekly cadence — and I'm being very conservative here:
 > - 100 connection requests per week — hand-picked, not blasted
-> - 30% accept rate = 30 new connections
-> - Podcast/call invites to all 30 — Loom videos, personalized messages
-> - 20% booking rate = 6 calls booked per week
-> - 70% show rate = 4 shows per week
-> - 30% close rate (warmer leads) = 1.2 clients per week = ~5 clients per month
+> - 25% accept rate = 25 new connections (our actual data shows 45%+)
+> - Podcast/call invites to all 25 — Loom videos, personalized messages
+> - 15% booking rate = 3-4 calls per week
+> - 65% show rate = 2-3 shows per week
+> - 20% close rate = about 2 new clients per month
 >
-> At $25K average client value, LinkedIn alone is worth $125K/month — $1.5M per year. And these are the WARMEST leads because they've seen your face, heard your podcast, gotten a personal video. The trust is already built before the strategy call even starts."
+> At $25K average client value, that's $50K/month from LinkedIn alone. These are the WARMEST leads — they've seen your face, heard your podcast, gotten a personal video. And I'm using numbers well below what we actually see in our campaigns."
 
-**Channel 2: Cold Email — Volume Engine (7 clients/month)**
+**Channel 2: Cold Email — Volume Engine (~3 clients/month)**
 > "Email carries the volume. Apollo gives us 44,390 business owners matching your exact ICP across the US — healthcare, medical, dental, trucking, hospitality, assisted living, construction, veterinary, home services. Owner/Founder/CEO, 10-500 employees, $2M-$50M revenue.
 >
-> Here's the approach: we send ~425 emails per day through 5-10 warmed inboxes. The email copy self-qualifies — we open with: '[Name], if you've acquired a business in the last 18 months and you're feeling the squeeze of debt service eating into your profits — this is for you. If not, feel free to ignore.'
+> Here's the approach: we send ~300 emails per day through 5-10 warmed inboxes. The email copy self-qualifies — we open with: '[Name], if you've acquired a business in the last 18 months and you're feeling the squeeze of debt service eating into your profits — this is for you. If not, feel free to ignore.'
 >
-> Only the people who feel the pain reply. AI classifies every response — hot leads get escalated to you in seconds, tire-kickers get filtered. The math:
-> - 12,700 emails/month → 254 positive replies → 38 booked calls → 27 shows → 7 new clients/month
-> - At $25K average client value: $175,000/month from email alone
+> Only the people who feel the pain reply. AI classifies every response — hot leads get escalated to you in seconds, tire-kickers get filtered. The math — and again, these are conservative floor numbers:
+> - 9,000 emails/month → 135 positive replies (1.5%) → 20 booked calls → 14 shows → ~3 new clients/month
+> - At $25K average client value: $75,000/month from email alone
 >
-> This is what failed before with the ad agency. They ran ads to strangers with no infrastructure, no trust, no follow-up. We fix that systematically with proper infrastructure and AI-powered qualification."
+> Combined with LinkedIn and your existing referrals, that's 7-8 clients/month = $175K/month = $2.1M annual run rate. And that's the floor, not the ceiling."
 
 **Channel 3: Podcast Authority Engine (supports both)**
 > "The podcast does triple duty:
@@ -413,50 +413,43 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 
 ---
 
-## The Math to $2M (Combined Engine)
+## The Math to $2M (Conservative Floor)
 
 | Channel | Clients/Month | Revenue/Month |
 |---------|---------------|---------------|
-| **Cold Email** | ~7 | $175,000 |
-| **LinkedIn** | ~5 | $125,000 |
+| **Cold Email** | ~3 | $75,000 |
+| **LinkedIn** | ~2 | $50,000 |
 | **Referrals (existing)** | 2-3 | $50,000 |
-| **TOTAL** | **14-15** | **$350,000** |
+| **TOTAL** | **7-8** | **$175,000** |
 
-**Annual run rate:** $4.2M
-**Even at half efficiency:** 7-8 clients/month = $175K/month = **$2.1M/year** — that's the target.
+**Annual run rate:** $2.1M — these are FLOOR numbers, not targets.
+**One exit package client ($180K) alone covers the entire investment 12x.**
 
-### Cold Email Funnel (working backwards from $2M):
+### Cold Email Funnel (conservative):
 | Metric | Number |
 |--------|--------|
-| Revenue Goal | $2,000,000 |
-| Avg Client Value (conservative) | $25,000 |
-| Clients Needed | 80/year |
-| Close Rate (qualified calls) | 25% |
-| Qualified Calls Needed | 320/year |
+| Emails Sent/Month | ~9,000 (300/day) |
+| Positive Reply Rate | 1.5% |
+| Positive Replies/Month | ~135 |
+| Booking Rate | 15% |
+| Booked Calls/Month | ~20 |
 | Show Rate | 70% |
-| Booked Calls Needed | 457/year |
-| Booking Rate (from replies) | 15% |
-| Positive Replies Needed | 3,047/year |
-| Reply Rate (cold email) | 2% |
-| Emails Sent Needed | 152,350/year |
+| Shows/Month | ~14 |
+| Close Rate | 20% |
+| **Clients/Month** | **~3** |
 
-**Monthly:** ~12,700 emails → ~254 replies → ~38 booked → ~27 shows → ~7 clients
-
-### LinkedIn Funnel:
+### LinkedIn Funnel (conservative):
 | Metric | Number |
 |--------|--------|
 | Connection Requests/Week | 100 |
-| Accept Rate | 30% |
-| New Connections/Week | 30 |
-| Podcast/Call Invites Sent | 30 |
-| Booking Rate | 20% |
-| Calls Booked/Week | 6 |
-| Shows/Week | 4 |
-| Close Rate (warmer leads) | 30% |
-| Clients/Week | 1.2 |
-| **Clients/Month** | **~5** |
-
-**LinkedIn alone:** ~$125K/month = $1.5M/year
+| Accept Rate | 25% |
+| New Connections/Week | 25 |
+| Booking Rate | 15% |
+| Calls Booked/Week | 3-4 |
+| Show Rate | 65% |
+| Shows/Week | ~2.5 |
+| Close Rate | 20% |
+| **Clients/Month** | **~2** |
 
 ---
 
@@ -469,8 +462,8 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 - **Average client value (conservative):** $25,000
 - **Tax/acquisition planning:** $23K/year per client
 - **Current clients:** 18 (all referral)
-- **Combined engine:** 14-15 clients/month = $350K/month = $4.2M (half = $2M)
-- **Emails/day needed:** 425 (very doable with 5-10 inboxes)
+- **Combined engine (conservative floor):** 7-8 clients/month = $175K/month = $2.1M/year
+- **Emails/day needed:** 300 (very doable with 5-10 inboxes)
 - **LinkedIn connections/week:** 100 (hand-picked, not blasted)
 - **Apollo TAM:** 44,390 business owners
 - **LinkedIn TAM:** 3K-8K with keyword rotation
