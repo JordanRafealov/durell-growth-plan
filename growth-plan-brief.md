@@ -239,16 +239,20 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 
 ### Phase 8: The Solution — Three-Pillar System (10 min)
 
-**Channel 1: LinkedIn Outbound (for business owners)**
-> "For business owners — your buyers — we're going to use LinkedIn outbound with a podcast as the Trojan Horse.
+**Channel 1: LinkedIn Dream 500 Precision Play (for business owners)**
+> "For business owners — your buyers — we're NOT doing volume. We're doing precision.
 >
-> Here's how it works:
-> 1. We identify profitable business owners in your target industries who also own real estate — your exact ICP
-> 2. We build personalized connection sequences that reference their industry, their situation
-> 3. We invite the best prospects onto a podcast where YOU interview them about building businesses, acquisitions, exits
-> 4. After the podcast, you transition the relationship into a business conversation — off-air, just like we discussed yesterday with BAMFAM
+> Here's the approach: there are 4,000+ business owners on LinkedIn right now matching your exact ICP — medical practices, trucking, hospitality, construction — Owner, Founder, CEO level, 11-500 employees. I'll show you the screenshot.
 >
-> Why this works: these are high-LTV buyers making life-changing financial decisions. They don't respond to cold DMs. They respond to being treated like experts. The podcast gives you a reason to reach out that's flattering, not salesy."
+> But we're not blasting all 4,000. We're hand-picking 50-100 per month — the Dream 500. Here's what makes this different:
+> 1. We use LinkedIn's 'Changed Jobs' filter to catch business owners who just acquired or just transitioned — that's your Buyer A trigger event happening in real time
+> 2. Each prospect gets a personalized Loom video from you — 60 seconds, referencing their specific business, their industry, their situation
+> 3. The best prospects get invited onto your podcast — flattering, not salesy, and it creates a real relationship
+> 4. After the podcast, you BAMFAM it — book the strategy call while the rapport is fresh
+>
+> The math: 50-100 hand-picked connections per month → 15-40 warm conversations → 4-14 podcast recordings or direct calls → 8-15 strategy calls in 90 days. At your $40K average LTV, that's $320K-$600K in pipeline from LinkedIn alone.
+>
+> Why precision, not volume? Because a business owner deciding whether to trust you with $180K doesn't respond to automated connection requests. They respond to someone who took 60 seconds to record a video about THEIR business. That's the difference."
 
 **Channel 2: Cold Email (for referral partners + volume)**
 > "For referral partners — commercial lenders, business brokers, CPAs, insurance agents — we use automated cold email at scale.
@@ -275,7 +279,7 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 | Component | What You Get | Market Value |
 |-----------|-------------|--------------|
 | **1. Offer Refinement & Positioning** | Grand Slam front-end, messaging for business owners + referral partners, outbound scripts | $3,000 |
-| **2. LinkedIn Outbound Engine** | ICP targeting, 400-600 connection requests/month, podcast invitations, managed outreach | $4,000/mo |
+| **2. LinkedIn Dream 500 Engine** | Hand-picked 50-100 prospects/month, Loom videos, podcast invitations, "Changed Jobs" trigger targeting | $4,000/mo |
 | **3. Cold Email Infrastructure** | 8-12 warmed domains, list building, AI-personalized sequences, managed campaigns | $3,000/mo |
 | **4. Podcast Launch & Production** | Full setup, guest booking, recording, editing, distribution, content repurposing | $3,000/mo |
 | **5. CRM & Pipeline Management** | Pipeline tracking, lead scoring, reporting dashboard, weekly reviews | $1,000/mo |
