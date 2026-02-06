@@ -237,6 +237,33 @@ Show 2-3 relevant case studies. These are already in the presentation — Create
 >
 > Can you see why staying referral-dependent is the most expensive decision you could make right now?"
 
+### Phase 7.5: The Offer Clarity Moment (5 min) — CRITICAL
+
+**This is the hardest part of the call.** You need to tell Durell his offer is a mess — diplomatically but directly. This is what separates you from every other agency he could hire.
+
+**Script:**
+> "Durell, before I show you the system, I need to be straight with you. On our call yesterday, you mentioned seven different things you do — tax savings, debt restructuring, acquisitions, exits, college funding, the exit package, systems for the whole wheel. Your pricing ranges from $4,300 to $180,000.
+>
+> Here's the thing: you can't build a demand engine for someone who can't answer 'What do you sell and to whom?' Right now, you have a practice — not an offer. And outbound doesn't work for practices. It works for specific problems with specific buyers.
+>
+> So before we turn on a single channel, the FIRST thing we do is constrain you down to ONE offer and ONE buyer. Here's what I think that looks like..."
+
+**Transition to the offer:**
+> "The only thing you said yesterday that sounded like a real, sellable, high-value offer was this: 'We help business owners who just acquired a company find $300K-$600K in annual savings within 90 days — enough to cover your debt service and fund your next move.'
+>
+> THAT is specific. That's a clear before and after. That's a triggering life event — they just closed an acquisition. We can target that. We can message that. We can build a pipeline around that.
+>
+> College funding at $4,300? That's a nice add-on for existing clients, not something you run outbound for. The wheel? That's Phase 2 — after YOUR pipeline is proven. The exit package at $180K? That's the upsell once you've established the relationship through the acquisition optimization.
+>
+> One ICP. One offer. Everything else comes after. Are you with me on that?"
+
+**If he pushes back:**
+> "Durell, I can build you the best outbound system in the world, but if the message is 'I do seven things for anyone who has money,' it won't convert. The agencies that failed you before? I guarantee their messaging was vague because your offer was vague. Let me fix that first."
+
+**Why this matters for Jordan:** If he can't agree to focus, he'll be a nightmare client. This is also a test — if he says "yes, let's focus," he's coachable and worth taking on. If he keeps drifting to the wheel and partnerships, consider whether this is a $15K client or a $15K headache.
+
+---
+
 ### Phase 8: The Solution — Three-Pillar System (10 min)
 
 **Channel 1: LinkedIn Dream 500 Precision Play (for business owners)**
